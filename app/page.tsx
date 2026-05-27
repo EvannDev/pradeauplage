@@ -20,7 +20,7 @@ export default function Home() {
 
       {/* ═══ HERO ═════════════════════════════════════════════════════════ */}
       <header className="hero" id="hero" aria-label="Section héro">
-        <div className="hero__bg" data-parallax="0.3">
+        <div className="hero__bg">
           <Image
             src="/hero.png"
             alt="Terrasse du Pradeau Plage avec pergola en bois, bougainvilliers et vue sur la mer turquoise de Giens"

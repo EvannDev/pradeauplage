@@ -5,8 +5,8 @@ import { useEffect, useState } from "react";
 const NAV_SECTIONS = [
   { id: "hero", label: "Accueil" },
   { id: "carte", label: "La Carte" },
-  { id: "lieu", label: "Le Lieu" },
   { id: "galerie", label: "Galerie" },
+  { id: "lieu", label: "Le Lieu" },
   { id: "avis", label: "Avis" },
   { id: "contact", label: "Contact" },
 ];

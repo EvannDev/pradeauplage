@@ -1119,6 +1119,9 @@ body > footer {
   color: var(--c-olivier);
   z-index: 1;
 }
+@media (max-width: 768px) {
+  .motif { display: none; }
+}
 
 /* ── Skip link (a11y) ──────────────────────────────────────────────────── */
 .skip-link {

@@ -56,10 +56,6 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <div className="hero__scroll" aria-hidden="true">
-          <span>Faites défiler</span>
-          <span className="hero__scroll-line" />
-        </div>
       </header>
 
       {/* ═══ L'EXPÉRIENCE ═════════════════════════════════════════════════ */}
